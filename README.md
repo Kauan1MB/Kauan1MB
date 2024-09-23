@@ -9,4 +9,4 @@ Meu nome é Kauan Olavio
 
 kauan.cunha.souza@escola.pr.gov.br
 
-![descrição do GIF](link GIF do Tenor)
+
